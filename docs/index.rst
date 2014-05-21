@@ -14,6 +14,9 @@ The Lorenz equations are:
     \dot{y}&=(\rho-z)x-y\\
     \dot{z}&=xy-\beta z
 
+where :math:`\sigma, \rho, \beta` are positive parameters.
+
+
 Example
 =======
 ::
